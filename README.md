@@ -44,6 +44,6 @@ The Online Quiz Application is a web-based project designed to test users’ kno
 ---
 
 ## Author
-- Rajneesh Kumar Singh
+- Author Name : Rajneesh Kumar Singh
 - GitHub: [Rahul-cmd1](https://github.com/Rahul-cmd1)
 - Email: rkrock933@gmail.com
