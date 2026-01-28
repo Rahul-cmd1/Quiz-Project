@@ -122,3 +122,11 @@ nextButton.addEventListener("click", () => {
 });
 
 startQuiz();
+
+
+// Footer dynamic year (professional touch)
+
+const footer = document.querySelector(".site-footer p");
+const year = new Date().getFullYear();
+
+footer.innerHTML = `© ${year} Made By <span>RK</span>`;
