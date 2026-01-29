@@ -9,6 +9,16 @@ const questions = [
         ]
     },
     {
+        question: "What is the minimum number of books you will acquire for the class library, so that they can be distributed equally among students of Section A or Section B?",
+        answers: [
+            { text: "144", Correct: false },
+            { text: "128", Correct: false },
+            { text: "288", Correct: true },
+            { text: "272", Correct: false },
+            
+        ]
+    },
+    {
         question: "Which is the smallest country in the world?",
         answers: [
             { text: "Vatican City", correct: true },
