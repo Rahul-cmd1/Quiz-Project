@@ -1,5 +1,5 @@
 # Quiz-Project
-The Online Quiz Application is a web-based project designed to test users’ knowledge through multiple-choice questions. The application provides an interactive and user-friendly interface where users can attempt quizzes, view questions one by one, and receive instant results based on their answers.
+The Online Quiz Application is a web-based project designed to test users’ knowledge through multiple-choice questions. The application provides an interactive, user-friendly interface where users can take quizzes, view questions one at a time, and receive instant results based on their answers.
 
 
 ---
@@ -44,6 +44,6 @@ The Online Quiz Application is a web-based project designed to test users’ kno
 ---
 
 ## Author
-- Author Name : Rajneesh Kumar Singh
+- Author Name: Rajneesh Kumar Singh
 - GitHub: [Rahul-cmd1](https://github.com/Rahul-cmd1)
 - Email: rkrock933@gmail.com
